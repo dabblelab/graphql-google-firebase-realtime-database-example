@@ -13,7 +13,7 @@ This is code for building an application that uses GraphQL to query a Google Fir
 
 2. Click the 'Run on Replit.com' button below to copy this code to your Replit.com account.
 
-  [![Run on Replit.com](https://repl.it/badge/github/dabblelab/graphqldemo)](https://repl.it/github/dabblelab/graphqldemo)
+    [![Run on Replit.com](https://repl.it/badge/github/dabblelab/graphqldemo)](https://repl.it/github/dabblelab/graphqldemo)
 
 3. Run on Replit.com
 
