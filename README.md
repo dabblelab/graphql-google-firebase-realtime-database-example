@@ -1,6 +1,6 @@
 # GraphQL and Google Firebase Realtime Database Example
 
-[]()
+![](https://raw.githubusercontent.com/dabblelab/graphqldemo/master/assets/gql.png)
 
 This is code for building an application that uses GraphQL to query a Google Firebase Realtime Database. To deploy and run this code you'll need the following:
 
